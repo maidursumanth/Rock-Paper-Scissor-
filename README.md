@@ -46,5 +46,5 @@ Improve UI/UXs<br>
 
 🙌 Authors<br>
 
-Sumanths<br>
-GitHub: 
+Sumanth<br>
+GitHub: https://github.com/maidursumanth
