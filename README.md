@@ -17,11 +17,11 @@ CSS – Styling and layout<br>
 JavaScript – Game logic and interactivity<br>
 
 📂 Project Structure<br>
-rock-paper-scissors/
-│
-├── index.html   <br>   # Main HTML file
-├── style.css     <br>  # Styling file
-└── script.js    <br>   # Game logic
+rock-paper-scissors/<br>
+│<br>
+├── index.html<br>   
+├── style.css<br> 
+└── script.js<br>   
 
 🎮 How to Play<br>
 
