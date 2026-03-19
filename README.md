@@ -37,3 +37,14 @@ Scores will update based on the result<br>
 
 ![image alt](https://github.com/maidursumanth/Rock-Paper-Scissor-/blob/77c537ab3f3cbdd441bd2f05b8143fc844172874/Screenshot%202026-03-19%20205834.png)<br>
 
+🔮 Future Improvements<br>
+
+Add sound effectss<br>
+Add animationss<br>
+Add multiplayer modes<br>
+Improve UI/UXs<br>
+
+🙌 Authors<br>
+
+Sumanths<br>
+GitHub: 
