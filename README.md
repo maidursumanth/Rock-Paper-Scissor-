@@ -37,7 +37,7 @@ Scores will update based on the result<br>
 
 ![image alt](https://github.com/maidursumanth/Rock-Paper-Scissor-/blob/77c537ab3f3cbdd441bd2f05b8143fc844172874/Screenshot%202026-03-19%20205834.png)<br>
 
-Link : https://rock-paper-scissor-bay-three.vercel.app/
+Website : https://rock-paper-scissor-bay-three.vercel.app/
 
 🔮 Future Improvements<br>
 
